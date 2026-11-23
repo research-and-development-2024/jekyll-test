@@ -1,0 +1,9 @@
+# Local certificate folder
+/{{pkgetc}}/
+
+# Local Jekyll dependency files
+/Gemfile
+/Gemfile.lock
+
+# macOS files
+.DS_Store
